@@ -6,3 +6,5 @@
 5. On bottom the form have two buttons: Accept and Reject
 7. When you press the button Reject - blur and form are gone.
 8. When you press the button Accept - list of checked vendor's id are writing to the cookies with the timer for 24 hour
+
+ I used html [TEMPLATE](https://www.w3schools.com/w3css/w3css_templates.asp) from W3SCHOOL
